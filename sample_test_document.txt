@@ -1,0 +1,17 @@
+DEMO DOCUMENT — DeadlineLens
+
+This file is included only as a text example for testing the prompt.
+
+Machine Learning Assignment 3
+
+Submission deadline: 12 October 2026, 11:59 PM
+
+Required:
+1. Complete Questions 1–5.
+2. Save the answers as a PDF.
+3. Upload the PDF to Google Classroom.
+
+Late submissions may not be accepted.
+
+Class presentation:
+18 October 2026
